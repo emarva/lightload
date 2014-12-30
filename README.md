@@ -1,4 +1,4 @@
 lightload
 =========
 
-LightLoad Load JavaScript and CSS OnDemand.
+LightLoad Load JavaScript and CSS on demand.
