@@ -1,4 +1,4 @@
 LightLoad
 =========
 
-Load JavaScript and CSS on demand.
+Load faster JavaScript and CSS.
