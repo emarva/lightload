@@ -1,4 +1,4 @@
-lightload
+LightLoad
 =========
 
-LightLoad Load JavaScript and CSS on demand.
+Load JavaScript and CSS on demand.
