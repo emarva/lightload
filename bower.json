@@ -8,8 +8,7 @@
   "description": "Load JavaScript and CSS on demand",
   "main": "src/lightload.js",
   "keywords": [
-    "light",
-    "load",
+    "lightload",
     "javascript",
     "css"
   ],
