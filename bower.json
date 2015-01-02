@@ -5,7 +5,7 @@
   "authors": [
     "Daniel Nuñez S. <dnunezse@gmail.com>"
   ],
-  "description": "Load JavaScript and CSS on demand",
+  "description": "Load faster JavaScript and CSS",
   "main": "src/lightload.js",
   "keywords": [
     "lightload",
